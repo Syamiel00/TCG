@@ -73992,7 +73992,10 @@
     "life": 5,
     "stageSkill": {
       "name": "魔性の再演",
-      "effect": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。"
+      "effect": {
+        "ja": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。",
+        "en": "At the beginning of your performance phase, if you have a collab holomem, you may bloom your center holomem <Houshou Marine> that bloomed this turn once more using a blue holomem from your hand"
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -88061,7 +88064,10 @@
     "life": 5,
     "stageSkill": {
       "name": "サラマンダーの恩返し",
-      "effect": "自己的成員聯動時，如果自己的中心成員為「熱千めら」，從自己的牌組抽1張牌，將1張手牌放到存檔區。"
+      "effect": {
+        "ja": "自己的成員聯動時，如果自己的中心成員為「熱千めら」，從自己的牌組抽1張牌，將1張手牌放到存檔區。",
+        "en": "When your Hololive members collaborate, if your center is <Atsuchi Mera>, draw 1 card from your deck and archive 1 card from your hand"
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
