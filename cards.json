@@ -51884,7 +51884,10 @@
     "life": 5,
     "stageSkill": {
       "name": "ドドドライブ",
-      "effect": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。"
+      "effect": {
+        "ja": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。",
+        "en": "When your <Tsunomaki Watame> uses an Arts card, change the top card of your deck to a Holo Power."
+      }
     },
     "oshiSkill": {
       "holoPower": -6,
@@ -51910,7 +51913,10 @@
     "life": 5,
     "stageSkill": {
       "name": "ドドドライブ",
-      "effect": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。"
+      "effect": {
+        "ja": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。",
+        "en": "When your <Tsunomaki Watame> uses an Arts card, change the top card of your deck to a Holo Power."
+      }
     },
     "oshiSkill": {
       "holoPower": -6,
@@ -51936,7 +51942,10 @@
     "life": 5,
     "stageSkill": {
       "name": "ドドドライブ",
-      "effect": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。"
+      "effect": {
+        "ja": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。",
+        "en": "When your <Tsunomaki Watame> uses an Arts card, change the top card of your deck to a Holo Power."
+      }
     },
     "oshiSkill": {
       "holoPower": -6,
@@ -52160,7 +52169,10 @@
     "life": 5,
     "stageSkill": {
       "name": "はあちゃまなう",
-      "effect": "[每個回合一次]自己回合中，自己的「赤井はあと」因自己的效果從舞台上放回牌組時，從自己的牌組抽2張牌。"
+      "effect": {
+        "ja": "[每個回合一次]自己回合中，自己的「赤井はあと」因自己的效果從舞台上放回牌組時，從自己的牌組抽2張牌。",
+        "en": "[Once per turn] During your turn, when your <Akai Haato> returns to your deck from the stage by your ability, draw 2 cards from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -52186,7 +52198,10 @@
     "life": 5,
     "stageSkill": {
       "name": "はあちゃまなう",
-      "effect": "[每個回合一次]自己回合中，自己的「赤井はあと」因自己的效果從舞台上放回牌組時，從自己的牌組抽2張牌。"
+      "effect": {
+        "ja": "[每個回合一次]自己回合中，自己的「赤井はあと」因自己的效果從舞台上放回牌組時，從自己的牌組抽2張牌。",
+        "en": "[Once per turn] During your turn, when your <Akai Haato> returns to your deck from the stage by your ability, draw 2 cards from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -52278,7 +52293,10 @@
     "life": 5,
     "stageSkill": {
       "name": "ETERNiTY FRONTiER",
-      "effect": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。"
+      "effect": {
+        "ja": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。",
+        "en": "For each of your Holo Power cards, your center Holo member, <AZKi>, gains +20 Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -1,
@@ -52304,7 +52322,10 @@
     "life": 5,
     "stageSkill": {
       "name": "ETERNiTY FRONTiER",
-      "effect": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。"
+      "effect": {
+        "ja": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。",
+        "en": "For each of your Holo Power cards, your center Holo member, <AZKi>, gains +20 Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -1,
@@ -52330,7 +52351,10 @@
     "life": 5,
     "stageSkill": {
       "name": "ETERNiTY FRONTiER",
-      "effect": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。"
+      "effect": {
+        "ja": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。",
+        "en": "For each of your Holo Power cards, your center Holo member, <AZKi>, gains +20 Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -1,
@@ -59551,7 +59575,10 @@
     "life": 5,
     "stageSkill": {
       "name": "Justiceの古代自動人形",
-      "effect": "自己所有的「セシリア・イマーグリーン」在重置階段不會改為活動狀態。"
+      "effect": {
+        "ja": "自己所有的「セシリア・イマーグリーン」在重置階段不會改為活動狀態。",
+        "en": "All of your Cecilia Immergreens will not become active during the reset step."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59577,7 +59604,10 @@
     "life": 5,
     "stageSkill": {
       "name": "Justiceの古代自動人形",
-      "effect": "自己所有的「セシリア・イマーグリーン」在重置階段不會改為活動狀態。"
+      "effect": {
+        "ja": "自己所有的「セシリア・イマーグリーン」在重置階段不會改為活動狀態。",
+        "en": "All of your Cecilia Immergreens will not become active during the reset step."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59603,7 +59633,10 @@
     "life": 5,
     "stageSkill": {
       "name": "準備は出来てるよね!",
-      "effect": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。"
+      "effect": {
+        "ja": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。",
+        "en": "All red ale attached to your [Fuwawa Abyssguard and Mokoko Abyssguard] will also be treated as blue ale."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59629,7 +59662,10 @@
     "life": 5,
     "stageSkill": {
       "name": "準備は出来てるよね!",
-      "effect": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。"
+      "effect": {
+        "ja": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。",
+        "en": "All red ale attached to your [Fuwawa Abyssguard and Mokoko Abyssguard] will also be treated as blue ale."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59655,7 +59691,10 @@
     "life": 5,
     "stageSkill": {
       "name": "準備は出来てるよね!",
-      "effect": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。"
+      "effect": {
+        "ja": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。",
+        "en": "All red ale attached to your [Fuwawa Abyssguard and Mokoko Abyssguard] will also be treated as blue ale."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59780,7 +59819,10 @@
     "life": 5,
     "stageSkill": {
       "name": "もう金曜だねルイ姉",
-      "effect": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。",
+        "en": "At the end of your turn, if your center Hololive member is <Takamine Rui> and you have a collaboration Hololive member, draw cards from your deck until you have 4 cards in your hand."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59806,7 +59848,10 @@
     "life": 5,
     "stageSkill": {
       "name": "もう金曜だねルイ姉",
-      "effect": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。",
+        "en": "At the end of your turn, if your center Hololive member is <Takamine Rui> and you have a collaboration Hololive member, draw cards from your deck until you have 4 cards in your hand."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59832,7 +59877,10 @@
     "life": 5,
     "stageSkill": {
       "name": "もう金曜だねルイ姉",
-      "effect": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。",
+        "en": "At the end of your turn, if your center Hololive member is <Takamine Rui> and you have a collaboration Hololive member, draw cards from your deck until you have 4 cards in your hand."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59858,7 +59906,10 @@
     "life": 5,
     "stageSkill": {
       "name": "もう金曜だねルイ姉",
-      "effect": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。",
+        "en": "At the end of your turn, if your center Hololive member is <Takamine Rui> and you have a collaboration Hololive member, draw cards from your deck until you have 4 cards in your hand."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -59884,7 +59935,10 @@
     "life": 5,
     "stageSkill": {
       "name": "WORLD DOMINATION",
-      "effect": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。"
+      "effect": {
+        "ja": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。",
+        "en": "If all the Hololive members on the opponent's stage have a different color from the opponent's favorite Hololive member, then all of your <Ichiinanisu> Arts can be used without needing any cheers."
+      }
     },
     "oshiSkill": {
       "holoPower": "-X",
@@ -59910,7 +59964,10 @@
     "life": 5,
     "stageSkill": {
       "name": "WORLD DOMINATION",
-      "effect": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。"
+      "effect": {
+        "ja": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。",
+        "en": "If all the Hololive members on the opponent's stage have a different color from the opponent's favorite Hololive member, then all of your <Ichiinanisu> Arts can be used without needing any cheers."
+      }
     },
     "oshiSkill": {
       "holoPower": "-X",
@@ -59936,7 +59993,10 @@
     "life": 5,
     "stageSkill": {
       "name": "WORLD DOMINATION",
-      "effect": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。"
+      "effect": {
+        "ja": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。",
+        "en": "If all the Hololive members on the opponent's stage have a different color from the opponent's favorite Hololive member, then all of your <Ichiinanisu> Arts can be used without needing any cheers."
+      }
     },
     "oshiSkill": {
       "holoPower": "-X",
@@ -66680,7 +66740,10 @@
     "life": 5,
     "stageSkill": {
       "name": "秩序を守る署長",
-      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+      "effect": {
+        "ja": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。",
+        "en": "Reduces the required White by 1 for all of your <Oozora Subaru> Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66706,7 +66769,10 @@
     "life": 5,
     "stageSkill": {
       "name": "秩序を守る署長",
-      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+      "effect": {
+        "ja": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。",
+        "en": "Reduces the required White by 1 for all of your <Oozora Subaru> Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66732,7 +66798,10 @@
     "life": 5,
     "stageSkill": {
       "name": "秩序を守る署長",
-      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+      "effect": {
+        "ja": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。",
+        "en": "Reduces the required White by 1 for all of your <Oozora Subaru> Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66758,7 +66827,10 @@
     "life": 5,
     "stageSkill": {
       "name": "秩序を守る署長",
-      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+      "effect": {
+        "ja": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。",
+        "en": "Reduces the required White by 1 for all of your <Oozora Subaru> Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66784,7 +66856,10 @@
     "life": 5,
     "stageSkill": {
       "name": "秩序を守る署長",
-      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+      "effect": {
+        "ja": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。",
+        "en": "Reduces the required White by 1 for all of your <Oozora Subaru> Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66810,7 +66885,10 @@
     "life": 5,
     "stageSkill": {
       "name": "秩序を守る署長",
-      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+      "effect": {
+        "ja": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。",
+        "en": "Reduces the required White by 1 for all of your <Oozora Subaru> Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66836,7 +66914,10 @@
     "life": 5,
     "stageSkill": {
       "name": "目指せ、宇宙一の番長！",
-      "effect": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。"
+      "effect": {
+        "ja": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。",
+        "en": "[Once per turn] When your <Todoroki Hajime> is passed on, change the top card of your deck to a Holo Power."
+      }
     },
     "oshiSkill": {
       "holoPower": "-X",
@@ -66862,7 +66943,10 @@
     "life": 5,
     "stageSkill": {
       "name": "目指せ、宇宙一の番長！",
-      "effect": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。"
+      "effect": {
+        "ja": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。",
+        "en": "[Once per turn] When your <Todoroki Hajime> is passed on, change the top card of your deck to a Holo Power."
+      }
     },
     "oshiSkill": {
       "holoPower": "-X",
@@ -66888,7 +66972,10 @@
     "life": 5,
     "stageSkill": {
       "name": "目指せ、宇宙一の番長！",
-      "effect": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。"
+      "effect": {
+        "ja": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。",
+        "en": "[Once per turn] When your <Todoroki Hajime> is passed on, change the top card of your deck to a Holo Power."
+      }
     },
     "oshiSkill": {
       "holoPower": "-X",
@@ -66914,7 +67001,10 @@
     "life": 5,
     "stageSkill": {
       "name": "鉄の胃袋大魔神",
-      "effect": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+      "effect": {
+        "ja": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。",
+        "en": "[Once per turn] When you play <Beef Bowl>, send the top card of your Cheer Deck to your <Shirogane Noel>. Furthermore, if there is a 2nd Hololive member on your Stage, draw one card from your Deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66922,7 +67012,7 @@
       "effect": {
         "zh-TW": "[每個回合一次]將自己存檔區的1張吶喊卡發送給自己的「白銀ノエル」。如果自己存檔區的「牛丼」有3張以上，則將自己存檔區的1~2張吶喊卡分配給自己的「白銀ノエル」。",
         "ja": "[毎ターン１回]自分のアーカイブからエールカード１枚を自分の「白銀ノエル」に送る。自分のアーカイブの「牛丼」が３枚以上ある場合、自分のアーカイブからエールカード１～２枚を自分の「白銀ノエル」に送る。",
-        "en": "[Once per turn] Send 1 Cheer card from your Archive to your \"Shirakami Fubuki\". If you have 3 or more \"Gyudon\" in your Archive, send 1-2 Cheer cards from your Archive to your \"Shirakami Fubuki\".",
+        "en": "[Once per turn] Send one Cheer card from your Archive to your Silver Noel. If you have three or more Beef Bowl cards in your Archive, instead, distribute one or two Cheer cards from your Archive to your Silver Noel.",
         "fr": "[Une fois par tour] Envoyez 1 carte d'encouragement de votre Archive à votre \"Shirogane Noel\". Si vous avez 3 cartes ou plus de \"Gyudon\" dans votre Archive, distribuez 1 à 2 cartes d'encouragement de votre Archive à votre \"Shirogane Noel\".",
         "es": "[Cada turno una vez] Envía 1 carta Cheer de tu Archivo a tu \"白銀ノエル\". Si \"牛丼\" en tu Archivo es de 3 o más, asigna 1-2 cartas Cheer de tu Archivo a tu \"白銀ノエル\"."
       }
@@ -66940,7 +67030,10 @@
     "life": 5,
     "stageSkill": {
       "name": "鉄の胃袋大魔神",
-      "effect": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+      "effect": {
+        "ja": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。",
+        "en": "[Once per turn] When you play <Beef Bowl>, send the top card of your Cheer Deck to your <Shirogane Noel>. Furthermore, if there is a 2nd Hololive member on your Stage, draw one card from your Deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66948,7 +67041,7 @@
       "effect": {
         "zh-TW": "[每個回合一次]將自己存檔區的1張吶喊卡發送給自己的「白銀ノエル」。如果自己存檔區的「牛丼」有3張以上，則將自己存檔區的1~2張吶喊卡分配給自己的「白銀ノエル」。",
         "ja": "[毎ターン１回]自分のアーカイブからエールカード１枚を自分の「白銀ノエル」に送る。自分のアーカイブの「牛丼」が３枚以上ある場合、自分のアーカイブからエールカード１～２枚を自分の「白銀ノエル」に送る。",
-        "en": "[Once per turn] Send 1 Cheer card from your Archive to your \"Shirakami Fubuki\". If you have 3 or more \"Gyudon\" in your Archive, send 1-2 Cheer cards from your Archive to your \"Shirakami Fubuki\".",
+        "en": "[Once per turn] Send one Cheer card from your Archive to your Silver Noel. If you have three or more Beef Bowl cards in your Archive, instead, distribute one or two Cheer cards from your Archive to your Silver Noel.",
         "fr": "[Une fois par tour] Envoyez 1 carte d'encouragement de votre Archive à votre \"Shirogane Noel\". Si vous avez 3 cartes ou plus de \"Gyudon\" dans votre Archive, distribuez 1 à 2 cartes d'encouragement de votre Archive à votre \"Shirogane Noel\".",
         "es": "[Cada turno una vez] Envía 1 carta Cheer de tu Archivo a tu \"白銀ノエル\". Si \"牛丼\" en tu Archivo es de 3 o más, asigna 1-2 cartas Cheer de tu Archivo a tu \"白銀ノエル\"."
       }
@@ -66966,7 +67059,10 @@
     "life": 5,
     "stageSkill": {
       "name": "鉄の胃袋大魔神",
-      "effect": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+      "effect": {
+        "ja": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。",
+        "en": "[Once per turn] When you play <Beef Bowl>, send the top card of your Cheer Deck to your <Shirogane Noel>. Furthermore, if there is a 2nd Hololive member on your Stage, draw one card from your Deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -66974,7 +67070,7 @@
       "effect": {
         "zh-TW": "[每個回合一次]將自己存檔區的1張吶喊卡發送給自己的「白銀ノエル」。如果自己存檔區的「牛丼」有3張以上，則將自己存檔區的1~2張吶喊卡分配給自己的「白銀ノエル」。",
         "ja": "[毎ターン１回]自分のアーカイブからエールカード１枚を自分の「白銀ノエル」に送る。自分のアーカイブの「牛丼」が３枚以上ある場合、自分のアーカイブからエールカード１～２枚を自分の「白銀ノエル」に送る。",
-        "en": "[Once per turn] Send 1 Cheer card from your Archive to your \"Shirakami Fubuki\". If you have 3 or more \"Gyudon\" in your Archive, send 1-2 Cheer cards from your Archive to your \"Shirakami Fubuki\".",
+        "en": "[Once per turn] Send one Cheer card from your Archive to your Silver Noel. If you have three or more Beef Bowl cards in your Archive, instead, distribute one or two Cheer cards from your Archive to your Silver Noel.",
         "fr": "[Une fois par tour] Envoyez 1 carte d'encouragement de votre Archive à votre \"Shirogane Noel\". Si vous avez 3 cartes ou plus de \"Gyudon\" dans votre Archive, distribuez 1 à 2 cartes d'encouragement de votre Archive à votre \"Shirogane Noel\".",
         "es": "[Cada turno una vez] Envía 1 carta Cheer de tu Archivo a tu \"白銀ノエル\". Si \"牛丼\" en tu Archivo es de 3 o más, asigna 1-2 cartas Cheer de tu Archivo a tu \"白銀ノエル\"."
       }
@@ -66992,7 +67088,10 @@
     "life": 5,
     "stageSkill": {
       "name": "TO THE FORGE NOW",
-      "effect": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。"
+      "effect": {
+        "ja": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。",
+        "en": "[Once per turn] When you attach a tool with #Kaela'sArms to <Kaela Kovalskia>, draw 2 cards from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -67018,7 +67117,10 @@
     "life": 5,
     "stageSkill": {
       "name": "TO THE FORGE NOW",
-      "effect": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。"
+      "effect": {
+        "ja": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。",
+        "en": "[Once per turn] When you attach a tool with #Kaela'sArms to <Kaela Kovalskia>, draw 2 cards from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -67044,7 +67146,10 @@
     "life": 5,
     "stageSkill": {
       "name": "TO THE FORGE NOW",
-      "effect": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。"
+      "effect": {
+        "ja": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。",
+        "en": "[Once per turn] When you attach a tool with #Kaela'sArms to <Kaela Kovalskia>, draw 2 cards from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -67070,7 +67175,10 @@
     "life": 5,
     "stageSkill": {
       "name": "魔弾の射手",
-      "effect": "[每個回合一次]自己的中心成員「常闇トワ」使用了藝能後，可以再次使用該成員另一個不同名稱的藝能。"
+      "effect": {
+        "ja": "[每個回合一次]自己的中心成員「常闇トワ」使用了藝能後，可以再次使用該成員另一個不同名稱的藝能。",
+        "en": "[Once per turn] After your center <Tokoyami Towa> uses an Arts card, you can use another Arts card with a different Arts name that the Hololive member possesses.",
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -67096,7 +67204,10 @@
     "life": 5,
     "stageSkill": {
       "name": "魔弾の射手",
-      "effect": "[每個回合一次]自己的中心成員「常闇トワ」使用了藝能後，可以再次使用該成員另一個不同名稱的藝能。"
+      "effect": {
+        "ja": "[每個回合一次]自己的中心成員「常闇トワ」使用了藝能後，可以再次使用該成員另一個不同名稱的藝能。",
+        "en": "[Once per turn] After your center <Tokoyami Towa> uses an Arts card, you can use another Arts card with a different Arts name that the Hololive member possesses.",
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -67221,7 +67332,10 @@
     "life": 5,
     "stageSkill": {
       "name": "至福のひととき",
-      "effect": "自己舞台上所有的「雪花ラミィ」藝能傷害+20。如果自己的存檔區有5張以上標示#ラミィのお酒的支援卡，則自己舞台上所有的「雪花ラミィ」藝能傷害+50。"
+      "effect": {
+        "ja": "自己舞台上所有的「雪花ラミィ」藝能傷害+20。如果自己的存檔區有5張以上標示#ラミィのお酒的支援卡，則自己舞台上所有的「雪花ラミィ」藝能傷害+50。",
+        "en": "All <Yukihana Lamy> cards on your stage gain +20 Arts. If you have 5 or more #Lamy's Alcoholic Beverage support cards in your archive, instead, all <Yukihana Lamy> cards on your stage gain +50 Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -67247,7 +67361,10 @@
     "life": 5,
     "stageSkill": {
       "name": "至福のひととき",
-      "effect": "自己舞台上所有的「雪花ラミィ」藝能傷害+20。如果自己的存檔區有5張以上標示#ラミィのお酒的支援卡，則自己舞台上所有的「雪花ラミィ」藝能傷害+50。"
+      "effect": {
+        "ja": "自己舞台上所有的「雪花ラミィ」藝能傷害+20。如果自己的存檔區有5張以上標示#ラミィのお酒的支援卡，則自己舞台上所有的「雪花ラミィ」藝能傷害+50。",
+        "en": "All <Yukihana Lamy> cards on your stage gain +20 Arts. If you have 5 or more #Lamy's Alcoholic Beverage support cards in your archive, instead, all <Yukihana Lamy> cards on your stage gain +50 Arts."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -73914,7 +74031,10 @@
     "life": 5,
     "stageSkill": {
       "name": "浜辺のヴィーナス",
-      "effect": "自己回合結束時，如果自己的中心成員與聯動成員為「ときのそら」，將自己牌組上方的1張牌放到holo能量區。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員與聯動成員為「ときのそら」，將自己牌組上方的1張牌放到holo能量區。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。",
+        "en": "At the end of your turn, if your Center Hololive member and Collaboration Hololive member are Tokino Sora, turn the top card of your deck into a Hololive Power. Furthermore, if you have a 2nd Hololive member on your stage, draw one card from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -4,
@@ -73940,7 +74060,10 @@
     "life": 5,
     "stageSkill": {
       "name": "浜辺のヴィーナス",
-      "effect": "自己回合結束時，如果自己的中心成員與聯動成員為「ときのそら」，將自己牌組上方的1張牌放到holo能量區。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員與聯動成員為「ときのそら」，將自己牌組上方的1張牌放到holo能量區。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。",
+        "en": "At the end of your turn, if your Center Hololive member and Collaboration Hololive member are Tokino Sora, turn the top card of your deck into a Hololive Power. Furthermore, if you have a 2nd Hololive member on your stage, draw one card from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -4,
@@ -73966,7 +74089,10 @@
     "life": 5,
     "stageSkill": {
       "name": "浜辺のヴィーナス",
-      "effect": "自己回合結束時，如果自己的中心成員與聯動成員為「ときのそら」，將自己牌組上方的1張牌放到holo能量區。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+      "effect": {
+        "ja": "自己回合結束時，如果自己的中心成員與聯動成員為「ときのそら」，將自己牌組上方的1張牌放到holo能量區。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。",
+        "en": "At the end of your turn, if your Center Hololive member and Collaboration Hololive member are Tokino Sora, turn the top card of your deck into a Hololive Power. Furthermore, if you have a 2nd Hololive member on your stage, draw one card from your deck."
+      }
     },
     "oshiSkill": {
       "holoPower": -4,
@@ -73994,7 +74120,7 @@
       "name": "魔性の再演",
       "effect": {
         "ja": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。",
-        "en": "At the beginning of your performance phase, if you have a collab holomem, you may bloom your center holomem <Houshou Marine> that bloomed this turn once more using a blue holomem from your hand"
+        "en": "When your performance step begins, if you have a collaborating Hololive member, you can use a blue Hololive member from your hand to Bloom the center <Houshou Marine> that you bloomed this turn once more."
       }
     },
     "oshiSkill": {
@@ -74021,7 +74147,10 @@
     "life": 5,
     "stageSkill": {
       "name": "魔性の再演",
-      "effect": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。"
+      "effect": {
+        "ja": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。",
+        "en": "When your performance step begins, if you have a collaborating Hololive member, you can use a blue Hololive member from your hand to Bloom the center <Houshou Marine> that you bloomed this turn once more."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -74047,7 +74176,10 @@
     "life": 5,
     "stageSkill": {
       "name": "魔性の再演",
-      "effect": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。"
+      "effect": {
+        "ja": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。",
+        "en": "When your performance step begins, if you have a collaborating Hololive member, you can use a blue Hololive member from your hand to Bloom the center <Houshou Marine> that you bloomed this turn once more."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -74102,7 +74234,10 @@
     "life": 5,
     "stageSkill": {
       "name": "助手くん限定の『こよ色観測』",
-      "effect": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。"
+      "effect": {
+        "ja": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。",
+        "en": "For each <Koyori's Assistant> card on your stage, you can increase the number of cards revealed from the top of your deck by +1, based on your favorite skill and the ability of your yellow <Hakui Koyori>."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -74128,7 +74263,10 @@
     "life": 5,
     "stageSkill": {
       "name": "助手くん限定の『こよ色観測』",
-      "effect": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。"
+      "effect": {
+        "ja": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。",
+        "en": "For each <Koyori's Assistant> card on your stage, you can increase the number of cards revealed from the top of your deck by +1, based on your favorite skill and the ability of your yellow <Hakui Koyori>."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -87552,7 +87690,10 @@
     "life": 5,
     "stageSkill": {
       "name": "広がる情熱",
-      "effect": "自己的成員聯動時，如果自己的中心成員為「百灯キョーコ」，將自己吶喊牌組上方的1張牌發送給自己的聯動成員。"
+      "effect": {
+        "ja": "自己的成員聯動時，如果自己的中心成員為「百灯キョーコ」，將自己吶喊牌組上方的1張牌發送給自己的聯動成員。",
+        "en": "When your Hololive members collaborate, if your center is <Hyakutou Kyouko>, send the top card of your cheer deck to your collaborating Hololive member."
+      }
     },
     "oshiSkill": {
       "holoPower": -3,
