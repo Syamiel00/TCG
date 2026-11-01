@@ -74073,7 +74073,10 @@
     "life": 5,
     "stageSkill": {
       "name": "助手くん限定の『こよ色観測』",
-      "effect": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。"
+      "effect": {
+        "ja": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。",
+        "en": "For each <Koyori's Assistant> card on your stage, you can increase the number of cards revealed from the top of your deck by +1, based on your favorite skill and the ability of your yellow <Hakui Koyori>."
+      }
     },
     "oshiSkill": {
       "holoPower": -2,
@@ -88057,7 +88060,7 @@
   },
   {
     "image": "cardListImages/hSD21/hSD21-001_OSR.png",
-    "name": "Syamiel",
+    "name": "熱千めら",
     "type": "主推",
     "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
     "color": "紫",
