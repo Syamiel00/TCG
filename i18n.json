@@ -328,5 +328,17 @@
   "#こよラボ": "#Koyo Lab",
   "#カエラ'sアームズ": "#Kaela's Arms",
   "#ラミィのお酒": "#Lamy's Alcohol"
- }
+ },
+ "sets": {
+    "hBP01": "Blooming Radiance",
+    "hBP02": "Quintet Spectrum",
+    "hBP03": "Elite Spark",
+    "hBP04": "Curious Universe",
+    "hBP05": "Enchant Regalia",
+    "hBP06": "Ayakashi Vermilion",
+    "hBP07": "Diva Fever",
+    "hBP08": "Bouncer Bound",
+    "hBP09": "Volume Vortex",
+    "hEB01": "Summer Hologram"
+  }
 }
